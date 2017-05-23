@@ -10,7 +10,7 @@ mu = 100, CMA-PAES-HAGA operates on small population sizes regardless of the num
 
 # Relevant publications
 
-'''
+```
 @article{rostami2016covariance,
   title={Covariance matrix adaptation pareto archived evolution strategy with hypervolume-sorted adaptive grid algorithm},
   author={Rostami, Shahin and Neri, Ferrante},
@@ -21,9 +21,9 @@ mu = 100, CMA-PAES-HAGA operates on small population sizes regardless of the num
   year={2016},
   publisher={IOS Press}
 }
-'''
+```
 
-'''
+```
 @article{rostami2016fast,
   title={A fast hypervolume driven selection mechanism for many-objective optimisation problems},
   author={Rostami, Shahin and Neri, Ferrante},
@@ -31,9 +31,9 @@ mu = 100, CMA-PAES-HAGA operates on small population sizes regardless of the num
   year={2016},
   publisher={Elsevier}
 }
-'''
+```
 
-'''
+```
 @inproceedings{rostami2012cma,
   title={Cma-paes: Pareto archived evolution strategy using covariance matrix adaptation for multi-objective optimisation},
   author={Rostami, Shahin and Shenfield, Alex},
@@ -42,4 +42,4 @@ mu = 100, CMA-PAES-HAGA operates on small population sizes regardless of the num
   year={2012},
   organization={IEEE}
 }
-'''
+```
